@@ -1,0 +1,6559 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<plist version="1.0">
+  <array>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+       e
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.kaomaji</string>
+      <string>https://en.wikipedia.org/wiki/Kaomoji</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.bt</string>
+      <string>`</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.no</string>
+      <string>No worries :D   </string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.co</string>
+      <string>confluence</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>omw</string>
+      <string>On my way!</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.strong</string>
+      <string>💪🏼</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.boyscout</string>
+      <string>The Boy Scout Rule can be summarized as: Leave your code better than you found it</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.wave</string>
+      <string>👋</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.thunder</string>
+      <string>🌩️</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.hot</string>
+      <string>❤️‍🔥</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.fire</string>
+      <string>🔥</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.klingon3</string>
+      <string>"Qapla' batlh je." - "Success and honor to you." - in Klingon</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.dothraki2</string>
+      <string>"Anha vazhak yeraan ataki anni" - "I will kill your men, take your women"  - in Dothraki</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.navi</string>
+      <string>"Srane, ma tsmuk" - "Yes, my brother/sister" - in Na'vi</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.navi3</string>
+      <string>"Tse'a ngal fì'u oeru txoa livu!" - "They may try to take our lives, but they'll never take our freedom!" - in Na'vi</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.navi2</string>
+      <string>"Tsun oe lu!" - "I am sorry!" - in Na'vi</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.navi1</string>
+      <string>"Oel ngati kameie" - "I see you" - in Na'vi</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.dothraki4</string>
+      <string>"Fichas jahakes moon" - "A stallion who mounts the world"  - in Dothraki</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.dothraki3</string>
+      <string>"Vezh fin saja rhaesheseres vo zigereo adoroon shiqethi" - "A dragon is not a slave" - in Dothraki</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.dothraki1</string>
+      <string>"Hash yer dothrae chek?" - "Do you ride well?" - in Dothraki</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.klingon2</string>
+      <string>"Heghlu'meH QaQ jajvam" - "Today is a good day to die" - in Klingon</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.klingon1</string>
+      <string>"Qapla'" - "Success" - in Klingon</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.sandarin3</string>
+      <string>"Mae govannen" - "Well met" in Sandarin / Elvish</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.sandarin2</string>
+      <string>"Hannon le" - "Thank you" in Sandarin / Elvish</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.sandarin1</string>
+      <string>"Amin mela lle" - "I love you" in Sandarin / Elvish</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.tldr</string>
+      <string>TL;DR (Too Long; Didn’t Read)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.8</string>
+      <string>🎱</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.female</string>
+      <string>♀</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.male</string>
+      <string>♂</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.666</string>
+      <string>hexakosioihexekontahexafobie</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.lang</string>
+      <string>hippopotomonstrosesquippedaliofobie</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.no</string>
+      <string>😫</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.yes</string>
+      <string>😁</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.ty</string>
+      <string>Thank you, Muchas gracias, Merci beaucoup, 谢谢, Спасибо, شكرًا, धन्यवाद, Asante sana, Q'apla', Nava vāda, Ni 'lassui En</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.brb</string>
+      <string>BRB (i’ll De Right Back)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.pov</string>
+      <string>POV (Point Of View)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.fuck</string>
+      <string>🍑 🍆</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.facial2</string>
+      <string>😆🍾</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.eta</string>
+      <string>ETA (Estimated Time of Arrival)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.lwd</string>
+      <string>LWD (Last Working Day)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.imho</string>
+      <string>IMHO (In My Humble Opinion)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.lgtm</string>
+      <string>LGTM (Looks Good To Me)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.afaik</string>
+      <string>AFAIK (As Far As I Know)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.hide</string>
+      <string>🙈</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.freedom</string>
+      <string>The true measure of freedom is not the absence of rules but the responsible exercise of liberties within the framework of the law. — Alexander Hamilton</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.mad</string>
+      <string>٩(╯`□´)۶</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.yeah</string>
+      <string>٩(ˊᗜˋ*)و</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.fun</string>
+      <string>“If you obey all the rules, you miss all the fun.” — teenagers everywhere, credited to Katharine Hepburn</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.ellner</string>
+      <string>“Just look at us. Everything is backwards, everything is upside down. Doctors destroy health, lawyers destroy justice, psychiatrists destroy minds, scientists destroy truth, major media destroys information, religions destroy spirituality and governments destroy freedom.” - Michael Ellner </string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.sarcasm</string>
+      <string>🙃</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.holy</string>
+      <string>😇</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.boks</string>
+      <string>👊</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>izjz</string>
+      <string>Ik zie je zo!</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.sigh</string>
+      <string>😩</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.dirty</string>
+      <string>#aDirtyMindIsAJoyForever</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.cross</string>
+      <string>❌</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.say</string>
+      <string>Wise men speak because they have something to say; Fools speak because they have to say something - is what Plato never said as he was Greek</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.epic</string>
+      <string>🙌</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.razor</string>
+      <string>"Entia non sunt multiplicanda praeter necessitatem", which translates as "Entities must not be multiplied beyond necessity" sometimes inaccurately paraphrased as "The simplest explanation is usually the best one."  - Occam's razor</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.better</string>
+      <string>“Once you’ve got a task to do, it’s better to do it than live with the fear of it. · You have to be realistic about these things.” - Logan Ninefingers</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.aa</string>
+      <string>Grant me the serenity to accept the things I cannot change, courage to change the things I can and wisdom to know the difference. - AA Twelve-step program</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.thumb2</string>
+      <string>d-(^_^ )</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.thumb3</string>
+      <string>d-(`▽´)-b </string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.arrow</string>
+      <string>"I used to be an adventurer like you, then I took an arrow in the knee." - The Elder Scrolls: Skyrim</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.problem</string>
+      <string>'The problem is not the problem. The problem is your attitude about the problem' - Captain Jack Sparrow</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.respect</string>
+      <string>Press F To Pay Respects - Call of Duty: Advanced Warfare</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.leeroy</string>
+      <string>The original video, titled Leeroy!!, was released by the World of Warcraft player guild "Pals for Life"[1] to video-sharing site Warcraftmovies on May 11, 2005.[2] The video features a group of players discussing a detailed battle plan for their next encounter while Leeroy is away from his computer, preparing a plate of chicken. This plan is intended to help Leeroy obtain a piece of armor from the boss monsters, but is ruined when Leeroy himself returns and, ignorant of the strategy, utters "Let's do this!" then immediately rushes headlong into battle shouting his own name in a stylized battle cry. After his companions sit silent for a moment in disbelief, they try to save him, but the chaotic nature of the fight leads into everyone being killed by the boss monsters. The guild chastises Leeroy for rushing into the fight without any planning, to which he retorts, "At least I have chicken!"</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.ayb</string>
+      <string>Narrator: In A.D. 2101 War Was Beginning.  Captain: What Happen?  Mechanic: Somebody Set Up Us the Bomb.  Operator: We get signal.  Captain: What!  Operator: Main screen turn on.  Captain: It's You!!  CATS: How are you gentlemen!!  CATS: All Your Base Are Belong to Us.  CATS: You are on the way to destruction.  Captain: What you say!!  CATS: You Have No Chance to Survive make your time.  CATS: Ha ha ha ha....  Operator: Captain!  Captain: Take Off Every 'ZIG'!!  Captain: You know what you doing.  Captain: Move 'ZIG'.  Captain: For Great Justice. Zero Wing is an arcade shoot 'em up released in 1989 by Toaplan.</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.klaatu</string>
+      <string>Klaatu barada nikto (1951: The Day the Earth Stood Still, 1992: Army of Darkness)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.redlight</string>
+      <string>무궁화 꽃이 피었습 (Mugunghwa kkochi piotsseumnid; The Roses of Sharon have blossomed; Red Light, Green Light game)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.splendid</string>
+      <string>console.log(['Awesome', 'Brilliant', 'Cool', 'Dazzling', 'Exceptional', 'Exquisite', 'Fantastic', 'Far-out', 'Formidable', 'Glorious', 'Grand', 'Great', 'Impressive', 'Incredible', 'Magnificent', 'Majestic', 'Marvelous', 'Outstanding', 'Phenomenal', 'Remarkable', 'Splendid', 'Stupendous', 'Superb', 'Superlative', 'Spectacular', 'Sublime', 'Wicked', 'Vintage', 'Quaint', 'Classic', 'Groovy'].sort(() =&gt; Math.random() - 0.5)[0]);
+</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.ass</string>
+      <string>(Y)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.enter</string>
+      <string>⮐</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.return</string>
+      <string>⮐</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.space</string>
+      <string>⎵</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.playpause</string>
+      <string>⏯️</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.play</string>
+      <string>▶️</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.prev</string>
+      <string>⏮️</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.next</string>
+      <string>⏭️</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.right</string>
+      <string>➡</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.left</string>
+      <string>⬅</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.down</string>
+      <string>⬇</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.up</string>
+      <string>⬆</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.1e</string>
+      <string>1ᵉ</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.devil</string>
+      <string>😈</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.4th</string>
+      <string>4ᵗʰ</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.3rd</string>
+      <string>3ʳᵈ</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.2nd</string>
+      <string>2ⁿᵈ</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.1st</string>
+      <string>1ˢᵗ</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.copy</string>
+      <string>©</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.tm</string>
+      <string>ᵗᵐ</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.point</string>
+      <string>👉🏽</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.wip</string>
+      <string>🚧</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.monkeys</string>
+      <string>🙈🙉🙊</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.look</string>
+      <string>👀</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.you</string>
+      <string>🫵</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.poo</string>
+      <string>💩</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.oops</string>
+      <string>🤭</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.rocket</string>
+      <string>🚀</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.rainbow</string>
+      <string>🌈</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.rain</string>
+      <string>🌧️</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.sun</string>
+      <string>☀️</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.ghost2</string>
+      <string>👻</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.cold</string>
+      <string>🥶</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.angry</string>
+      <string>🤬</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.shush</string>
+      <string>🤫</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.silly</string>
+      <string>🤪</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.scream</string>
+      <string>😱</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.smirk</string>
+      <string>😏</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.bliss</string>
+      <string>😇</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.nerd</string>
+      <string>🤓</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.yum</string>
+      <string>😋</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.plead</string>
+      <string>🥺</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.sweat</string>
+      <string>😅</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.roll</string>
+      <string>🙄</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.sleep</string>
+      <string>😴</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.zip</string>
+      <string>🤐</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.wink</string>
+      <string>😜</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.rofl</string>
+      <string>🤣</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.sick</string>
+      <string>🤢</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.hug</string>
+      <string>🤗</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.party</string>
+      <string>🎉</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.thanks</string>
+      <string>🙏</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.sad3</string>
+      <string>😢</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.blush</string>
+      <string>😊</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.swag2</string>
+      <string>😎</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.loveit2</string>
+      <string>😍</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.think</string>
+      <string>🤔</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.heart</string>
+      <string>❤️</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.laugh</string>
+      <string>😂</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.sad2</string>
+      <string>(╥_╥)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.kiss2</string>
+      <string> (づ￣ ³￣)づ</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.omw</string>
+      <string>On my way!</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.lol</string>
+      <string>🤣😂</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.kiss</string>
+      <string>😘</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.luck</string>
+      <string>🤞🍀</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.supere</string>
+      <string>ᵉ</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.sunrise</string>
+      <string>____☼____</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.thumb</string>
+      <string>( ^_^)-b</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.hi5</string>
+      <string>ヘ( ^o^)ノ＼(^_^ )</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.baby</string>
+      <string>{-_-}</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.lorem</string>
+      <string>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.fox</string>
+      <string>the quick brown fox jumps over the lazy dog</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.iam</string>
+      <string>“I am not what I think I am, and I am not what you think I am. I am what I think you think I am.”
+― Charles Horton Cooley</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.present</string>
+      <string>“The clock is running. Make the most of today. Time waits for no man. Yesterday is history. Tomorrow is a mystery. Today is a gift. That's why it is called the present.”
+― Alice Morse Earle</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.beter</string>
+      <string>Het is altijd beter, dat je weet waar je te weten kunt komen wat je niet weet, dan veel te weten</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.games</string>
+      <string>.games .hadoken .pacman .pingpoing .sharkattack .snowing .tiefighter </string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.doom</string>
+      <string>IDDQD IDKFA IDCIP </string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.rose</string>
+      <string>@)}---^-----</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.mouse</string>
+      <string>&lt;:3)~~~~</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.spider</string>
+      <string>//O\\</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.fish</string>
+      <string>&gt;++('&gt;</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.shift</string>
+      <string>⇧</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.super</string>
+      <string>supercalifragilisticexpialidocious</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.pacman</string>
+      <string>ᗧ···ᗣ···ᗣ··</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.pancakes</string>
+      <string>( ^-^)_旦</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.sharkattack</string>
+      <string>~~~~~~\o/~~~~~/\~~~~~</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.pingpong</string>
+      <string>( •_•)O*¯`·.¸.·´¯`°Q(•_• )</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.rage</string>
+      <string>ლ(ಠ益ಠ)ლ</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.brow</string>
+      <string>( ͡° ͜ °)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.rickroll</string>
+      <string>https://youtu.be/dQw4w9WgXcQ</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.shrug</string>
+      <string>¯\_(ツ)_/¯</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.smug</string>
+      <string>(‾⌣‾)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.picture</string>
+      <string>[◉"]</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.snowing</string>
+      <string>✲´*。.❄¨¯`*✲。❄。*。</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.sob</string>
+      <string>(;´༎ຶД༎ຶ`)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.swag</string>
+      <string>(̿▀̿‿ ̿▀̿ ̿)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.tableflip</string>
+      <string>(╯°□°）╯︵ ┻━┻</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.thankyou</string>
+      <string>\(^-^)/</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.thisguy</string>
+      <string>(☞ﾟ∀ﾟ)☞</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.thriller</string>
+      <string>🍿🤏😯</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.tiefighter</string>
+      <string>|—O—|</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.uhoh</string>
+      <string>🕳👨‍🦯</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.wipeout</string>
+      <string>X‿X</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.witness</string>
+      <string>😎🤏😳🕶🤏</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.wut</string>
+      <string>(Ͼ˳Ͽ)..!!!</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.yessir</string>
+      <string>∠(･`_´･ )</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.option</string>
+      <string>⌥</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.facial</string>
+      <string>✊🏼💦😝</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.nevermind</string>
+      <string>😯☝️😐✊</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.monkey</string>
+      <string>@(_)@</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.mac</string>
+      <string></string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.loveit</string>
+      <string>(♥_♥)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.lala</string>
+      <string>👉🙄👈</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.killme</string>
+      <string>👉🤪💨</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.jerkoff</string>
+      <string>✊🏼💦</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.izjz</string>
+      <string>Ik zie je zo!</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.jaj</string>
+      <string>*\o/*</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.sorry</string>
+      <string>ヾ(_ _。）</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.imout</string>
+      <string>🚪🏃‍♀️💨</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.robot</string>
+      <string>d[o_0]b</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.iig</string>
+      <string>in ieder geval</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.shy</string>
+      <string>👉👈 </string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.idk</string>
+      <string>I don't know</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.hugs</string>
+      <string>(っ◕‿◕)っ</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.helpme</string>
+      <string>٩(͡๏̯͡๏)۶</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.hellyeah</string>
+      <string>(òÓ,)_\,,/</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.joy</string>
+      <string>n_n</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.happy</string>
+      <string>ᕕ( ᐛ )ᕗ</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.hadoken</string>
+      <string>༼つಠ益ಠ༽つ ─=≡ΣO))</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.grin</string>
+      <string>¬‿¬</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.gotit</string>
+      <string>(☞ﾟ∀ﾟ)☞</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.godwhy</string>
+      <string>ლ( `Д’ ლ)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.glitter</string>
+      <string>(*・‿・)ノ⌒*:･ﾟ✧</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.glasses</string>
+      <string>ᒡ◯ᵔ◯ᒢ</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.getcoffee</string>
+      <string>['c[_]'].map(mug =&gt; mug.replace(/(?&lt;=\[).+?(?=\])/, '~'))</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.fuckoff</string>
+      <string>t(-.-t)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.ftw</string>
+      <string>＼ ٩( ᐛ )و /／</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.flexing2</string>
+      <string>ᕙ(⇀‸↼‶)ᕗ</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.flexing</string>
+      <string>ᕙ(`▽´)ᕗ</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.fight</string>
+      <string>(ง︡'-'︠)ง</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.fart</string>
+      <string>🍑 💨</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.facepalm2</string>
+      <string>(&gt;ლ) </string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.facepalm</string>
+      <string>(－‸ლ)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.elevator</string>
+      <string>https://youtu.be/leEQ3nz8O-I</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.dunno2</string>
+      <string>٩(๏̯๏)۶</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.dunno</string>
+      <string>¯\(°_o)/¯</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.duh</string>
+      <string>(≧︿≦)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.dope</string>
+      <string>&lt;(^_^)&gt;</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.derp</string>
+      <string>ヘ（。□°）ヘ</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.dealwithit</string>
+      <string>( •_•)&gt;⌐■-■ (⌐■_■)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.dab</string>
+      <string>ヽ( •_)ᕗ</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.crowd</string>
+      <string>ʕ•̫͡•ʕ*̫͡*ʕ•͓͡•ʔ-̫͡-ʕ•̫͡•ʔ*̫͡*ʔ-̫͡-ʔ</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.control</string>
+      <string>⌃</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.caps</string>
+      <string>⇪</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.command</string>
+      <string>⌘</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.coffee</string>
+      <string>c[_]</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.check</string>
+      <string>✅</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.bow</string>
+      <string>o(_ _)o</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.bbs</string>
+      <string>I'll be back soon.</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.afk</string>
+      <string>I’m away from my keyboard</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.degrees</string>
+      <string>°</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.abstract</string>
+      <string>AbstactFactorySingletonAdapterDecoratorProxy</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.bandaid</string>
+      <string>(:̲̅:̲̅:̲̅[̲̅ ]̲̅:̲̅:̲̅:̲̅)</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.dance</string>
+      <string>ᕕ(⌐■_■)ᕗ ♪♬</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.boobs</string>
+      <string>( . Y . )</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.sad</string>
+      <string>ε(´סּ︵סּ`)з</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.zombie</string>
+      <string>[¬º-°]¬</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.cheers</string>
+      <string>( ^​_^）o自自o（^_​^ )</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.wizard</string>
+      <string>(∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ. *</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.rock</string>
+      <string>\m/,(&gt; . &lt;)_\m/</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.loud</string>
+      <string>ᕦ(⩾﹏⩽)ᕥ</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.haha</string>
+      <string>٩(^‿^)۶</string>
+    </dict>
+    <dict>
+      <key>on</key>
+      <key>replace</key>
+      <key>with</key>
+      <integer>1</integer>
+      <string>.ghost</string>
+      <string>༼ つ ╹ ╹ ༽つ</string>
+    </dict>
+  </array>
+</plist>
